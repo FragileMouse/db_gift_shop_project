@@ -1,3 +1,3 @@
-## 🎁 Gift Shop Data Warehouse
+# 🎁 Gift Shop Data Warehouse
 
-# 🎀 Суть проекта
+## 🎀 Суть проекта
