@@ -1,1 +1,3 @@
-# db_gift_shop_project
+## 🎁 Gift Shop Data Warehouse
+
+# 🎀 Суть проекта
